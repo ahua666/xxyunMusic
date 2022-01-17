@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/search",
+    "pages/index/searchTo",
+    "pages/index/playlist/playlist"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "permission": {},
+  "usingComponents": {}
+}
