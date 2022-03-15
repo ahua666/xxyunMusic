@@ -1,10 +1,6 @@
 ## 星星云音乐小程序
 uniapp项目，导入后记得修改appid
-# 运行截图
-主界面
-![歌单界面](https://pans.ahuaaa.xyz/409940d5e10b38c2eea897cc603934d.jpg)
-歌单界面
-![歌单界面](https://pans.ahuaaa.xyz/719873cf85b5ba9c2ebf8c287084ab4.jpg)
+
 ## ✨ 功能实现
 - ✅ 使用 uni-app 开发
 - ✅ 无任何社交功能
@@ -22,3 +18,9 @@ API 源代码来自 [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryif
 
 
 # 转载请注明出处，该项目仅用于学习研究，不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。
+
+# 运行截图
+主界面
+![歌单界面](https://pans.ahuaaa.xyz/409940d5e10b38c2eea897cc603934d.jpg)
+歌单界面
+![歌单界面](https://pans.ahuaaa.xyz/719873cf85b5ba9c2ebf8c287084ab4.jpg)
