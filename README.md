@@ -1,7 +1,10 @@
 ## 星星云音乐小程序
 
 # 运行截图
-![主页面](https://pans.vercel.app/img/202111242258.png)
+主界面
+![歌单界面](https://pans.ahuaaa.xyz/409940d5e10b38c2eea897cc603934d.jpg)
+歌单界面
+![歌单界面](https://pans.ahuaaa.xyz/719873cf85b5ba9c2ebf8c287084ab4.jpg)
 ## ✨ 功能实现
 - ✅ 使用 uni-app 开发
 - ✅ 无任何社交功能
