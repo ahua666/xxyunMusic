@@ -21,6 +21,6 @@ API 源代码来自 [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryif
 
 # 运行截图
 主界面
-![歌单界面](https://pans.ahuaaa.xyz/409940d5e10b38c2eea897cc603934d.jpg)
+![歌单界面](https://pans.ahuaaa.cn/409940d5e10b38c2eea897cc603934d.jpg)
 歌单界面
-![歌单界面](https://pans.ahuaaa.xyz/719873cf85b5ba9c2ebf8c287084ab4.jpg)
+![歌单界面](https://pans.ahuaaa.cn/719873cf85b5ba9c2ebf8c287084ab4.jpg)
